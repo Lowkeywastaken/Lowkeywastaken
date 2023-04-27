@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jerimiah aka @Lowkeywastaken
-- 👀 I’m interested in learning Pyhton and Java
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anyone
+- 👋 Hi, I’m Jerimiah Exequiel Espartero aka @Lowkeywastaken
+- 👀 I’m a student learning different kinds of coding system Python, Java and HTML CSS
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on anyone.
 - 📫 How to reach me: https://www.facebook.com/jerimiahexequiel.espartero
 
 <!---
